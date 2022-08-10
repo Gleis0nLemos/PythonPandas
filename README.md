@@ -1,21 +1,8 @@
 ### Python Pandas: tratando e analisando dados.
-    Curso by, Alura 😄
+ 
+####  O que foi aprendido na primeira aula:
 
-#### Cronograma de aulas:
-
 ###
-    - Conhecendo o Jupyter;
-###
-    - Importando dados;
-###
-    - Series e Index:
-###
-    - Frequência de Imóveis;
-### 
-    - Tratando de dados faltantes;
-###
-    - Novas variáveis;
-###
-    - Estatísticas descritivas;
-###
-    - Removendo Outliers.
+    - Anaconda é a principal distribuição para cientistas de dados que usam Python
+    - Jupyter é a nossa ferramenta para executar código Python e visualizar os dados
+    - Ambientes virtuais ajudam a isolar um projeto para definir a versão das bibliotecas e do próprio Python
