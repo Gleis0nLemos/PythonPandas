@@ -1,11 +1,8 @@
 ### Python Pandas: tratando e analisando dados.
  
-#### Tópicos aprendidos na oitava aula:
+#### Tópicos aprendidos na última aula:
 
 ###
-    - Como criar agrupamentos com o groupby()
-    - Estatísticas descritivas com o describe() e o aggregate()
-    - Como renomear as colunas com o rename()
-    - Como fazer gráficos com o pacote Matplotlib
-    - Como criar faixas de valor com o cut()
+    - Como identificar e remover outliers com o box plot
+    - Como fazer um gráfico de pizza com a aplicação do método pie(), da biblioteca matplotlib
 
