@@ -1,8 +1,21 @@
 ### Python Pandas: tratando e analisando dados.
- 
-#### Tópicos aprendidos na última aula:
+    Curso by, Alura 😄
+
+#### Cronograma de aulas:
 
 ###
-    - Como identificar e remover outliers com o box plot
-    - Como fazer um gráfico de pizza com a aplicação do método pie(), da biblioteca matplotlib
-
+    - Conhecendo o Jupyter;
+###
+    - Importando dados;
+###
+    - Series e Index:
+###
+    - Frequência de Imóveis;
+### 
+    - Tratando de dados faltantes;
+###
+    - Novas variáveis;
+###
+    - Estatísticas descritivas;
+###
+    - Removendo Outliers.
